@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Apr 2023 03:47:53 at http://tradx.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://tradx.co.in/ -O1 "D:\tradx.co.in" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:50:46	Error: 	"Not Found" (404) at link tradx.co.in/get-a-quote.html (from tradx.co.in/)
+03:52:07	Warning: 	Retry after error 409 (Conflict) at link tradx.co.in/contact.php (from tradx.co.in/)
+03:52:08	Error: 	"Not Found" (404) at link tradx.co.in/news-details.html (from tradx.co.in/)
+03:52:08	Error: 	"Not Found" (404) at link tradx.co.in/css/owl.video.play.png (from tradx.co.in/css/vendor.bundle.css)
+03:52:21	Warning: 	Retry after error 409 (Conflict) at link tradx.co.in/contact.php (from tradx.co.in/)
+03:52:21	Error: 	"Not Found" (404) at link tradx.co.in/index.html (from tradx.co.in/payment.html)
+03:52:21	Error: 	"Not Found" (404) at link tradx.co.in/aboutus.html (from tradx.co.in/payment.html)
+03:52:23	Error: 	"Not Found" (404) at link tradx.co.in/service.html (from tradx.co.in/payment.html)
+03:52:23	Error: 	"Conflict" (409) after 2 retries at link tradx.co.in/contact.php (from tradx.co.in/)
+03:52:23	Error: 	"Not Found" (404) at link tradx.co.in/about-us.html (from tradx.co.in/overview.html)
+03:52:23	Error: 	"Not Found" (404) at link tradx.co.in/about-us-alter.html (from tradx.co.in/overview.html)
+03:52:23	Error: 	"Not Found" (404) at link tradx.co.in/teams.html (from tradx.co.in/overview.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 30 seconds : 183 links scanned, 170 files written (7577964 bytes overall) [7155276 bytes received at 26501 bytes/sec], 663603 bytes transferred using HTTP compression in 38 files, ratio 28%, 2.6 requests per connection
+(10 errors, 2 warnings, 0 messages)
